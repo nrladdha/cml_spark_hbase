@@ -1,6 +1,6 @@
-# Getting Started with PySpark
+# Demo PySpark app in CML to connect to Hbase 
 
-This baseline project shows how to interact with PySpark on Spark3 on K8S cluster managed by CML
+Demo CML app with PySpark runs on on Spark3 on K8S cluster and accesses Hbase
 To begin, open an IPython workbench.
 
 ## Cluster permissions
